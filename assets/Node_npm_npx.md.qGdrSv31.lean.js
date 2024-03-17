@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.qqD2yPod.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Node/npm/npx.md","filePath":"Node/npm/npx.md","lastUpdated":null}'),a={name:"Node/npm/npx.md"};function o(p,r,s,c,d,m){return n(),t("div")}const l=e(a,[["render",o]]);export{i as __pageData,l as default};

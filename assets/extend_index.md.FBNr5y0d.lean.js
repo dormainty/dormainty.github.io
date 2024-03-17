@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.qqD2yPod.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"extend/index.md","filePath":"extend/index.md","lastUpdated":null}'),a={name:"extend/index.md"};function d(r,o,s,c,i,p){return n(),t("div")}const x=e(a,[["render",d]]);export{l as __pageData,x as default};

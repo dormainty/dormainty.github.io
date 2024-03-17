@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,V as t}from"./chunks/framework.qqD2yPod.js";const c=JSON.parse('{"title":"链接","description":"","frontmatter":{},"headers":[],"relativePath":"HTML/链接.md","filePath":"HTML/链接.md","lastUpdated":null}'),n={name:"HTML/链接.md"},l=t("",9),e=[l];function h(p,k,r,d,E,g){return a(),i("div",null,e)}const u=s(n,[["render",h]]);export{c as __pageData,u as default};

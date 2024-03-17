@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,V as i}from"./chunks/framework.qqD2yPod.js";const b=JSON.parse('{"title":"过渡","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/过渡.md","filePath":"CSS/过渡.md","lastUpdated":null}'),l={name:"CSS/过渡.md"},s=i("",3),r=[s];function d(n,o,p,c,h,_){return a(),e("div",null,r)}const m=t(l,[["render",d]]);export{b as __pageData,m as default};

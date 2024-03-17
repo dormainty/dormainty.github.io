@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/常见布局/圣杯布局.md","filePath":"CSS/常见布局/圣杯布局.md","lastUpdated":null}'),r={name:"CSS/常见布局/圣杯布局.md"};function o(s,n,c,_,d,p){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

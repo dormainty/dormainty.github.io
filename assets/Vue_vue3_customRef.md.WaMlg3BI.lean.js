@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/vue3/customRef.md","filePath":"Vue/vue3/customRef.md","lastUpdated":null}'),o={name:"Vue/vue3/customRef.md"};function s(c,r,n,u,m,d){return a(),t("div")}const _=e(o,[["render",s]]);export{p as __pageData,_ as default};

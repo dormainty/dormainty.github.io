@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,V as a}from"./chunks/framework.qqD2yPod.js";const x=JSON.parse('{"title":"Nginx","description":"","frontmatter":{},"headers":[],"relativePath":"Nginx.md","filePath":"Nginx.md","lastUpdated":null}'),c={name:"Nginx.md"},n=a("",19),r=[n];function p(i,d,l,s,P,_){return t(),o("div",null,r)}const g=e(c,[["render",p]]);export{x as __pageData,g as default};

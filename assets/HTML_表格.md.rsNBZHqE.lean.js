@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,V as n}from"./chunks/framework.qqD2yPod.js";const b=JSON.parse('{"title":"表格","description":"","frontmatter":{},"headers":[],"relativePath":"HTML/表格.md","filePath":"HTML/表格.md","lastUpdated":null}'),t={name:"HTML/表格.md"},l=n("",8),p=[l];function h(e,k,r,E,d,g){return a(),i("div",null,p)}const y=s(t,[["render",h]]);export{b as __pageData,y as default};

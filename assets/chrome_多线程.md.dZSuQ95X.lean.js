@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"chrome/多线程.md","filePath":"chrome/多线程.md","lastUpdated":null}'),r={name:"chrome/多线程.md"};function o(c,s,n,_,d,m){return a(),t("div")}const l=e(r,[["render",o]]);export{i as __pageData,l as default};
