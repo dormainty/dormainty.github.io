@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,V as c}from"./chunks/framework.qqD2yPod.js";const R=JSON.parse('{"title":"React","description":"","frontmatter":{},"headers":[],"relativePath":"React.md","filePath":"React.md","lastUpdated":null}'),r={name:"React.md"},l=c("",10),i=[l];function o(s,n,d,p,u,h){return t(),e("div",null,i)}const m=a(r,[["render",o]]);export{R as __pageData,m as default};

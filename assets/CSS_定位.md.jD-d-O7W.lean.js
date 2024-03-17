@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as s,V as a}from"./chunks/framework.qqD2yPod.js";const g=JSON.parse('{"title":"定位","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/定位.md","filePath":"CSS/定位.md","lastUpdated":null}'),t={name:"CSS/定位.md"},e=a("",32),n=[e];function p(r,d,o,h,u,c){return s(),i("div",null,n)}const k=l(t,[["render",p]]);export{g as __pageData,k as default};

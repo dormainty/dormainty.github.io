@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"chrome/index_副本8.md","filePath":"chrome/index_副本8.md","lastUpdated":null}'),r={name:"chrome/index_副本8.md"};function n(o,c,s,_,d,i){return a(),t("div")}const l=e(r,[["render",n]]);export{p as __pageData,l as default};

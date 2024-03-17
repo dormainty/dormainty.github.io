@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.j7JTtqwr.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/组件_副本12.md","filePath":"React/组件_副本12.md","lastUpdated":1710670412000}'),_={name:"React/组件_副本12.md"};function c(r,o,s,n,d,p){return a(),t("div")}const f=e(_,[["render",c]]);export{m as __pageData,f as default};

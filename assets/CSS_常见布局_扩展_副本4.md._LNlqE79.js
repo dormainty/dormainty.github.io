@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/常见布局/扩展_副本4.md","filePath":"CSS/常见布局/扩展_副本4.md","lastUpdated":null}'),_={name:"CSS/常见布局/扩展_副本4.md"};function r(o,s,n,c,d,p){return a(),t("div")}const m=e(_,[["render",r]]);export{l as __pageData,m as default};

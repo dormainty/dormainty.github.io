@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,V as i}from"./chunks/framework.qqD2yPod.js";const m=JSON.parse('{"title":"配置","description":"","frontmatter":{},"headers":[],"relativePath":"Git/配置.md","filePath":"Git/配置.md","lastUpdated":null}'),e={name:"Git/配置.md"},l=i("",2),t=[l];function p(r,h,c,o,d,k){return n(),a("div",null,t)}const b=s(e,[["render",p]]);export{m as __pageData,b as default};

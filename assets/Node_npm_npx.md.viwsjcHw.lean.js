@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.j7JTtqwr.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Node/npm/npx.md","filePath":"Node/npm/npx.md","lastUpdated":1710670412000}'),n={name:"Node/npm/npx.md"};function o(p,r,s,c,d,m){return a(),t("div")}const f=e(n,[["render",o]]);export{i as __pageData,f as default};

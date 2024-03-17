@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/常见布局/flex.md","filePath":"CSS/常见布局/flex.md","lastUpdated":null}'),r={name:"CSS/常见布局/flex.md"};function o(s,n,c,l,d,f){return a(),t("div")}const i=e(r,[["render",o]]);export{_ as __pageData,i as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.qqD2yPod.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/组件_副本12.md","filePath":"React/组件_副本12.md","lastUpdated":null}'),_={name:"React/组件_副本12.md"};function c(r,o,s,n,d,p){return a(),t("div")}const m=e(_,[["render",c]]);export{l as __pageData,m as default};

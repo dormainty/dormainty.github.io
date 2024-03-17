@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,V as n}from"./chunks/framework.qqD2yPod.js";const o=JSON.parse('{"title":"扩展","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/扩展.md","filePath":"CSS/扩展.md","lastUpdated":null}'),l={name:"CSS/扩展.md"},t=n("",60),h=[t];function p(e,k,r,d,E,g){return a(),i("div",null,h)}const u=s(l,[["render",p]]);export{o as __pageData,u as default};

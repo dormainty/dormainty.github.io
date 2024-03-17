@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.qqD2yPod.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/vue3/markRaw.md","filePath":"Vue/vue3/markRaw.md","lastUpdated":null}'),r={name:"Vue/vue3/markRaw.md"};function o(s,n,c,m,d,p){return t(),a("div")}const i=e(r,[["render",o]]);export{_ as __pageData,i as default};
