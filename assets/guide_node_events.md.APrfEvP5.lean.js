@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.Wg2ruw7m.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/events.md","filePath":"guide/node/events.md","lastUpdated":null}'),a={name:"guide/node/events.md"};function s(o,d,r,c,i,p){return n(),t("div")}const m=e(a,[["render",s]]);export{l as __pageData,m as default};

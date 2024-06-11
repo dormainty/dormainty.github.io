@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Wg2ruw7m.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/全局变量.md","filePath":"guide/node/全局变量.md","lastUpdated":null}'),o={name:"guide/node/全局变量.md"};function n(d,r,s,c,_,i){return a(),t("div")}const m=e(o,[["render",n]]);export{l as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.Wg2ruw7m.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/process.md","filePath":"guide/node/process.md","lastUpdated":null}'),o={name:"guide/node/process.md"};function a(r,c,n,d,p,i){return s(),t("div")}const m=e(o,[["render",a]]);export{l as __pageData,m as default};

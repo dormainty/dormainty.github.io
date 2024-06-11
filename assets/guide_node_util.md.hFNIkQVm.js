@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Wg2ruw7m.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/util.md","filePath":"guide/node/util.md","lastUpdated":null}'),o={name:"guide/node/util.md"};function n(d,r,i,s,c,l){return a(),t("div")}const _=e(o,[["render",n]]);export{u as __pageData,_ as default};
