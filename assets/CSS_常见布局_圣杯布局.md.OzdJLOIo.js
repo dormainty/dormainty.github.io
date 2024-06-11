@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.j7JTtqwr.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/常见布局/圣杯布局.md","filePath":"CSS/常见布局/圣杯布局.md","lastUpdated":1710670412000}'),r={name:"CSS/常见布局/圣杯布局.md"};function o(s,c,n,_,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
