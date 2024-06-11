@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.Wg2ruw7m.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/express.md","filePath":"guide/node/express.md","lastUpdated":null}'),a={name:"guide/node/express.md"};function r(o,n,d,p,c,i){return s(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};
