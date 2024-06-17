@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Wg2ruw7m.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/node/ffmpeg.md","filePath":"guide/node/ffmpeg.md","lastUpdated":null}'),o={name:"guide/node/ffmpeg.md"};function n(d,r,s,f,p,c){return a(),t("div")}const _=e(o,[["render",n]]);export{m as __pageData,_ as default};
