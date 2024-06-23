@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.1sOznGPE.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/chrome/多线程.md","filePath":"guide/chrome/多线程.md","lastUpdated":null}'),r={name:"guide/chrome/多线程.md"};function o(c,s,n,d,_,i){return a(),t("div")}const l=e(r,[["render",o]]);export{p as __pageData,l as default};
