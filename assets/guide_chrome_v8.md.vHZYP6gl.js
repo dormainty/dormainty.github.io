@@ -1,0 +1,29 @@
+import{_ as s,c as a,o as n,V as p}from"./chunks/framework.yB9ribBw.js";const v=JSON.parse('{"title":"V8","description":"","frontmatter":{},"headers":[],"relativePath":"guide/chrome/v8.md","filePath":"guide/chrome/v8.md","lastUpdated":1718632692000}'),e={name:"guide/chrome/v8.md"},l=p(`<h1 id="v8" tabindex="-1">V8 <a class="header-anchor" href="#v8" aria-label="Permalink to &quot;V8&quot;">​</a></h1><h2 id="v8如何执行一段代码" tabindex="-1">V8如何执行一段代码 <a class="header-anchor" href="#v8如何执行一段代码" aria-label="Permalink to &quot;V8如何执行一段代码&quot;">​</a></h2><p>V8是Google开发的开源 JavaScript 引擎，目前用在Chrome浏览器和Node.js中，其核心功能就是执行 JavaScript 代码。</p><div class="language- vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>浏览器引擎：</span></span>
+<span class="line"><span>浏览器引擎是指浏览器内部的一个模块，主要负责解析和渲染网页。</span></span>
+<span class="line"><span>不同的浏览器有不同的浏览器引擎，例如：</span></span>
+<span class="line"><span>- Chrome浏览器使用的是 Blink 引擎</span></span>
+<span class="line"><span>- Firefox浏览器使用的 Gecko 引擎</span></span>
+<span class="line"><span>- Safari浏览器使用的 Webkit引擎</span></span>
+<span class="line"><span>浏览器引擎的主要功能包括：</span></span>
+<span class="line"><span>1.HTML和CSS解析：将HTML和CSS代码解析成浏览器可以理解的结构，并将其转换成渲染树。</span></span>
+<span class="line"><span>2.JavaScript解析：将JavaScript代码解析成可执行的指令</span></span>
+<span class="line"><span>3.布局和渲染：根据渲染树和CSS规则，计算出每个元素在屏幕上的位置和大小，并将其渲染出来</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>JavaScript引擎：</span></span>
+<span class="line"><span>JavaScript引擎是指浏览器内部的一个模块，主要负责解析和执行JavaScript代码。</span></span>
+<span class="line"><span>不同的浏览器也有不同的JavaScript引擎，例如：</span></span>
+<span class="line"><span>- Chrome浏览器使用的是 V8 引擎</span></span>
+<span class="line"><span>- Firefox浏览器使用的是 SpiderMonkey 引擎</span></span>
+<span class="line"><span>- Safari浏览器使用的是 JavaScriptCore 引擎</span></span>
+<span class="line"><span>JavaScript引擎的主要功能包括：</span></span>
+<span class="line"><span>1.词法分析：将 JavaScript代码分解成一个个词法单元</span></span>
+<span class="line"><span>2.语法分析：将词法单元转换成语法树</span></span>
+<span class="line"><span>3.代码优化：对语法树进行优化，提高代码的执行效率</span></span>
+<span class="line"><span>4.代码生成：将优化后的代码转换成可执行的指令</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>总结：</span></span>
+<span class="line"><span>浏览器引擎和JavaScript引擎是浏览器内部的两个不同的模块。</span></span>
+<span class="line"><span>浏览器引擎主要负责解析和渲染网页，包括HTML和CSS解析以及布局和渲染工作</span></span>
+<span class="line"><span>JavaScript引擎主要负责解析和执行JavaScript代码</span></span>
+<span class="line"><span>两者之间是协同合作的关系，浏览器会将解析后的JavaScript代码交给JavaScript引擎执行，JavaScript引擎执行完后再将结果返回给浏览器进行渲染。</span></span>
+<span class="line"><span>它俩之间的关系是相互配合、相互依赖的关系。</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br><span class="line-number">25</span><br><span class="line-number">26</span><br><span class="line-number">27</span><br><span class="line-number">28</span><br><span class="line-number">29</span><br></div></div>`,4),r=[l];function i(c,t,b,o,m,u){return n(),a("div",null,r)}const S=s(e,[["render",i]]);export{v as __pageData,S as default};
